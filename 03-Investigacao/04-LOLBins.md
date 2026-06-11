@@ -777,11 +777,3 @@ Ao final deste tema, você deve conseguir olhar um Event ID 4688 e responder:
 Quando você domina isso, começa a enxergar comportamento malicioso mesmo quando não existe malware explícito, hash conhecido ou alerta de antivírus. Isso é uma das habilidades mais valiosas em investigação de endpoint.
 
 ---
-
-## Observando comportamento na prática
-
-`certutil.exe -urlcache -split -f "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Google_2026_logo.svg/500px-Google_2026_logo.svg.png" google_logo.png`
-
-Na primeira execução: block do Windows Defender
-
-![[Pasted image 20260609234937.png]]
